@@ -14,7 +14,7 @@
 #///////////////////////////////////////////////////////////////////////////////
 
 # created: 20220509
-# updated: ?
+# updated: 20220513
 
 # TODO:
 # - all seems done
@@ -99,7 +99,7 @@ $data[0][27] = "Lokomotywa nie ma już pary"
 $data[0][28] = "Gdy nie każdego stać na browary"
 $data[0][29] = "Pożarł Hilary swe okulary"
 $data[0][30] = "Spowiły nas trujące opary"
-$data[0][31] = "To nie jest calka ani logarytm"
+$data[0][31] = "To nie jest całka ani logarytm"
 #///////////////////////////////////////////////
 #//po 8
 $data[1][0]  = "Już na arenę krew tryska"

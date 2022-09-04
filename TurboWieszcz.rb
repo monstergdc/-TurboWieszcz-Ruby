@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/env ruby
 
-# Turbo Wieszcz ++ Ruby version, v1.0
+# Turbo Wieszcz ++ Ruby version, v2.0
 # (c)2022 Noniewicz.com, Jakub Noniewicz
 #///////////////////////////////////////////////////////////////////////////////
 #// based directly on (translated from): previous version written in Python
@@ -15,12 +15,13 @@
 
 # created: 20220509
 # updated: 20220513
+# updated: 20220904
 
 # TODO:
 # - all seems done
 
 
-$TWNAME = "TurboWieszcz++ - wersja w Ruby, v1.0"
+$TWNAME = "TurboWieszcz++ - wersja w Ruby, v2.0"
 $TWMORE = "Generator poezji (FREEWARE)\n(c)2022 Noniewicz.com, Jakub Noniewicz aka MoNsTeR/GDC\nhttp://www.noniewicz.com/"
 
 $titles = Array[
@@ -313,21 +314,8 @@ def about()
       "\n" +
       "Zainspirowany również wersją napisaną na iPhone-a przez Tomka (Grycha) Gryszkiewicza.\n" +
       "\n" +
-      "Inne wersje (stan na maj 2022):\n" +
-      "- Commodore C-64\n" +
-      "- Android\n" +
-      "- ZX Spectrum\n" +
-      "- ZX81\n" +
-      "- Amstrad CPC\n" +
-      "- Python\n" +
-      "- Fortran\n" +
-      "- Arduino\n" +
-      "- Windows / Raspberry PI / Linux / Windows CE\n" +
-      "- Octave / Matlab\n" +
-      "- LUA\n" +
-      "- konsola Playdate (LUA)\n" +
-      "- C\n" +
-      "- SQL\n" +
+      "Istnieje wiele wersji w różnych językach i na różne platformy...\n" +
+      "Zobacz tu: http://noniewicz.com/product.php?l=2&key=tw\n" +
       "\n" +
       "Historia programu została opisana w magazynie Ha!art 47 3/2014:\n" +
       "http://www.ha.art.pl/czasopismo/numery-czasopisma/4054-ha-art-47-3-2014"
